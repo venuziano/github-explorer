@@ -8,7 +8,7 @@
 </h4>
 
 <p align="center">
-  <img alt="used languages" src="https://img.shields.io/badge/languages-3-green">  
+  <img alt="used languages" src="https://img.shields.io/badge/languages-2-green">  
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/venuziano/github-explorer">
   <img alt="used license" src="https://img.shields.io/github/license/venuziano/Proffys">
 </p>
