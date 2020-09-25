@@ -45,4 +45,4 @@
 
 <h2><a fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"><img class="emoji" alt="memo" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"></g-emoji> Licença</h2>
 
-<p>Este projeto esta sobe a licença <a href="https://github.com/venuziano/Proffys/blob/master/LICENSE">MIT</a>.</p>
+<p>Este projeto está sobe a licença <a href="https://github.com/venuziano/Proffys/blob/master/LICENSE">MIT</a>.</p>
